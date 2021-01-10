@@ -1,0 +1,2 @@
+# X-cumagic
+Quadrat Màgic
